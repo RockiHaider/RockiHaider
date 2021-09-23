@@ -9,7 +9,7 @@ import {
   Link
 } from "react-router-dom";
 import Item from './Components/Item';
-// import Footer from './Components/Footer';
+import Footer from './Components/Footer';
 import Register from './Components/Register';
 import MyOrder from './Components/MyOrder';
 import Wishlist from './Components/Wishlist';
@@ -21,7 +21,7 @@ function App() {
     <>
       <Router>        
         <Item/>
-        {/* <Footer/> */}
+        <Footer/>
         <Switch>
         <Route path='/profile' component={Profile} />
         <Route path='/register' component={Register} />
