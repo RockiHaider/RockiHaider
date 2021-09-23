@@ -1,0 +1,84 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+.container
+{
+    width: 100%;
+    
+}
+.heading
+{
+    width: 100%;
+    float:left;
+    /* background-color: #69A03A; */
+
+    padding:18px 0px;
+
+}
+.heading img
+{
+    float: left;
+    margin-left: 5%;
+}
+.heading h4
+{
+    margin-left: 13%;
+        color: white;
+}
+.images
+{
+    width: 92%;
+    display:flex;
+    float: left;
+    margin:4% 4%;
+
+    border-bottom: 2px solid #D1D1D1;
+}
+.pics
+{
+    width: 30%;
+}
+.info
+{
+    width: 70%;
+}
+.info-heading{
+    width:100%;
+    display:flex;
+    
+}
+.ghobi
+{
+    max-width: 100%;
+}
+.info-heading h5
+{
+    margin: 2%;
+}
+.arrow
+{
+    float: right;
+    margin-left: 72%;
+}
+.shine-star
+{
+    width: 100%;
+    margin: 2%;
+
+}
+.detail
+{
+    width: 100%;
+}
+.detail p
+{
+    margin: 2%;
+    font-size: 13px;
+    color:#B2B2B2;
+}
+.detail h5
+{
+    margin: 2%;
+}

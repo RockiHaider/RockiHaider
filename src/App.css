@@ -1,0 +1,127 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    position: absolute;
+    font-family: 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    width: 100vw;
+    margin-right: 0vw;
+
+}
+
+.container {
+    width: 100%;
+    /* background-color: aqua; */
+}
+
+.heading {
+    width: 80%;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 8%;
+}
+
+.span {
+    font-weight: bold;
+    color: orangered;
+}
+
+.place {
+    margin-top: 5%;
+    width: 95%;
+    margin-left: 2%;
+    border-radius: 25px;
+    padding: 2%;
+}
+
+.img {
+    margin-top: 3%;
+    width: 100%;
+}
+
+.bc {
+    width: 100%;
+}
+
+.cards {
+    width: 42%;
+    padding: 1%;
+    margin-left: 4%;
+    margin-top: 5%;
+    border-radius: 10px;
+    float: left;
+    box-shadow: 2px 5px 5px 1px grey;
+}
+
+.card-para {
+    float: left;
+    margin-top: 4%;
+    margin-left: 6%;
+}
+
+.card-img {
+    width: 20%;
+    float: left;
+}
+
+.para {
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.cheetah {
+    width: 100%;
+    margin-top: 10%;
+    float: left;
+}
+
+.cash {
+    float: left;
+    font-size: 100%;
+    margin-top: 3%;
+    background-color: orange;
+    margin-left: 5%;
+    width: 40%;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.document {
+    width: 10%;
+    float: left;
+    background-color: orange;
+    border-radius: 15px;
+}
+
+.price {
+    float: left;
+    font-size: 100%;
+    background-color: orange;
+    margin-top: 3%;
+    border-radius: 30px;
+    width: 40%;
+    text-align: center;
+}
+
+@media screen and (min-width: 480px) {
+    .picwid {
+        width: 60%;
+    }
+    .ticketpara2 {
+        width: 32%;
+        background-color: orangered;
+        float: left;
+        text-align: right;
+        /* padding:1%; */
+        margin-top: 4.5%;
+        margin-right: 4%;
+        border-radius: 7%;
+        text-align: center;
+    }
+}
+

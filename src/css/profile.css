@@ -1,0 +1,141 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+@media only screen and (min-width: 800px), (min-width: 768px)
+{
+    .acc-heading
+    {
+    
+        font-size: 45px;
+    }
+    .wid-media
+    {
+width: 80%;
+border-radius: 100px;
+    }
+    .text-media
+    {
+    font-size: 28px;
+  }
+    .a
+    {
+        width: 9%;
+    }
+    .edit-para
+    {
+        font-size: 25px;
+    
+    }
+  }
+  @media only screen and (min-width: 320px)
+  {
+    .acc-heading
+    {
+    
+        font-size: 20px;
+    }
+       .wid-media
+    {
+width: 100%;
+border: radius 100px;
+    }
+    .text-media
+    {
+    font-size: 18px;
+  }
+    .a
+    {
+        width: 9%;
+    }
+    .edit-para
+    {
+        font-size: 15px;
+    line-height: 8px;
+    
+    }
+  }
+
+.container-wid100
+{
+    width: 100%;
+}
+.wid-100
+{
+    width:100%;
+}
+.account
+{
+    margin-top: 5%;
+    float: left;
+    }
+.acc-heading
+{
+    float: left;
+    text-align: center;
+    margin-left: 40%;
+    color: orangered;
+}
+.search
+{
+    float: right;
+    margin-right: 4%;
+    margin-top: 1%;
+    width: 5%;
+}
+.picture
+{
+    background-color: gray;
+    
+}
+.img
+{
+    width: 20%;
+    background-color:rgb(208, 208, 208);
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 5%;
+    float: left;
+}
+.text
+{
+    width: 75%;
+    float: left;
+    text-align: center;
+    font-size: 10px;
+    margin-top: 4%;
+
+}
+.icons
+{
+    float:left;
+   
+}
+.edit
+{
+    margin-top: 5%;
+    width: 90%;
+    margin-left: 5%;
+    display: inline-flex;
+    background-color:white;
+    border-bottom: 1px solid ;
+    box-shadow: 3px 2px 4px 2px #888888;
+    float: left;
+
+}
+.edit-para
+{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.a{
+    float: left;
+}
+.b
+{
+    float: right;
+    width:2%;
+
+
+}

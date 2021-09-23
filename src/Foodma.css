@@ -1,0 +1,217 @@
+*{
+    margin:0%;
+    padding: 0%;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+body{
+    background-color: white;
+}
+input{
+    
+    border: none;
+    color: black;
+    background: none;
+    outline: none;
+    margin-left:3% ;
+}
+i{
+    float: left;
+    margin-left:2% ;
+
+}
+.textbox{
+   margin-top: 2%;
+    background:rgb(235, 235, 235);
+    box-shadow:1px 3px 6px 2px #888888;
+    padding: 1%;
+    margin-left: 1%;
+    border-radius: 30px;
+    background-color: none;
+    width: 95%;
+    border: 2px solid rgb(235, 235, 235);
+}
+input::placeholder{
+
+    color: purple;
+    font-family:cursive ;
+    font-weight: bold;
+ 
+}
+.a{
+    height: 30px;
+    width: 100%;
+    background-color: white;
+}
+.b{
+    float: left;
+    font-family: cursive;
+}
+.c{
+      float: right;
+      font-family: cursive;
+}
+.wrapper{
+    margin-left: 2%;
+}
+.d {
+    height: 100px;
+    width: 100%;
+    overflow: auto;
+}
+.d1{
+    height: 80%;
+    width: 20%;
+    background-color: black;
+    float: left;
+    margin-top: 1%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+            -6px -6px 10px -1px rgba(255,255,255,0.7)
+
+}
+.d2{
+    height: 80%;
+    width: 20%;
+    background-color: black;
+    float: left;
+    margin-left: 3%;
+    margin-top: 1%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+}
+.d3{
+    height: 80%;
+    width: 20%;
+    background-color: black;
+    margin-left: 3%;
+    float: left;
+    margin-top: 1%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+}
+.d4{
+    height: 80%;
+    width: 25%;;
+    background-color: black;
+    float: left;
+    margin-left: 3%;
+    margin-top: 1%;
+    border-radius: 3%;
+    float: left;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+}
+.d5{
+    height: 80%;
+    width: 13%;
+    background-color: black;
+    float: left;
+    margin-left: 3%;
+    margin-top: 1%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+  
+}
+.d6{
+    height: 80%;
+    width: 13%;
+    background-color: black;
+    float: left;
+    margin-left: 3%;
+    margin-top: 1%;
+    border-radius: 3%;
+    float: left;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7),
+    -6px -6px 10px -1px rgba(255,255,255,0.7),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+}
+.d11{
+    width: 100%;
+    height: 100%;
+}
+.d12{
+    color: white;
+    height: 40%;
+}
+.e{
+    width: 100%;
+    height: 60px;
+}
+.e1{
+    width: 30%;
+    height: 70%;
+    border-color: black;
+}
+.f{
+    width: 93%;
+    height: 30px;
+}
+.f1{
+    float: left;
+    font-size: 13px;
+}
+.f2{
+    float: right;
+    border-radius: 12%;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    background-color: darkorange;
+}
+.g{
+    width: 100%;
+    height: 600px;
+
+}
+.g1{
+    width: 95%;
+    height: 12%;
+}
+.g11{
+    width: 18%;
+    height: 100%;
+    float: left;
+}
+.g12{
+    width: 80%;
+    height: 100%;
+    float: right;
+}
+.g111{
+    height: 100%;
+    width: 100%;
+    border-radius: 3%;
+    box-shadow: 6px 6px 10px -1px rgba(0,0,0,0.15),
+    -6px -6px 10px -1px rgba(255,255,255,0.7)
+}
+.g112{
+    float: left;
+}
+.g113{
+    text-align: center;
+}
+.g114{
+    float: right;
+}
+.h{
+    width: 100%;
+    height: 4%;
+}
+.space3{
+    height: 100%;
+    width: 2%;
+    float: left;
+}
+.space1{
+    width: 100%;
+    height: 9px;
+}
+img{
+    width: 100%;
+}

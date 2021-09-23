@@ -1,0 +1,94 @@
+
+
+body{
+    width: 92%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    
+
+  }
+
+
+
+.info{
+    
+    width: 50%;
+    margin-left: 5%;
+    float:left;
+     font-style: normal;
+ 
+}
+.ill{
+    width: 40%;
+    float:right;
+}
+img{
+    width: 100%;
+    height: 100px;
+}
+@media screen  and(max-width:300px) {
+
+    .register{
+        padding :  0% ;
+    }
+    
+}
+
+
+.register{
+    width: 100%;
+    padding: 0%;
+
+    margin-left: 4%;
+   
+     
+    
+}
+
+.container{
+ 
+    background: rgb(255, 254, 254);
+        width: 100%;
+        height: 100px;
+        
+}
+
+input:focus{
+     border: 2px solid orange;
+}
+button{
+    border-radius: 5px;
+    border-color: orange;
+    background-color: orange;
+    color: white;
+    width: 250px;
+    height: 35px;
+    cursor: pointer;
+    border-color: transparent;
+    
+}
+.h5{
+    text-align: center;
+     
+}
+input,button{
+    width: 90%;
+    height: 30px;
+    padding:4%;
+    border-color: transparent;
+    border-radius: 5px;
+    box-shadow: 1px 1px 20px -6px;
+    
+
+
+}
+button{
+    width: 100%;
+    padding:3%;
+    align-content: center;
+    align-items: center;
+    height:40px;
+}
+.form{
+    background-color: aliceblue;
+}
